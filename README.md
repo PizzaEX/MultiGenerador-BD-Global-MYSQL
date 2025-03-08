@@ -4,10 +4,10 @@ Puedes gestionar tus LISTA de base de datos local (offline 100%) o de servidor (
 
 ## How it looks
 ![software](IMG/1.png)
-  
-![menu](IMG/2.jpg)
-  
-![data](IMG/3.jpg)
+
+![software2](IMG/2.png)
+
+![software3](IMG/3.png)
  
   
 ## Installation
