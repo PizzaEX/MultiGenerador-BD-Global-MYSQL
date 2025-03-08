@@ -10,7 +10,7 @@ Puede ingresar tus datos ya sea local o del servidor como pruebas
 ![software2](IMG/2.png)
 puedes seleccionar cualquier columna de la base de datos y se te autogenera una lista de peticiones para trabajar, puedes agregar más a la lista, modificar o eliminar la fila de la base seleccionada
 ![software3](IMG/3.png)
-puedes restablecer la configuracion por defaul
+puedes restablecer la configuracion por defaul, incluso cambiar el nombre de la bd o la tabla, y se actualizara de inmediata, sin necesidad de cambios extra
 ![software4](IMG/4.png)
  
   
