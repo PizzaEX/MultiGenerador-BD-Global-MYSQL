@@ -8,6 +8,8 @@ Puedes gestionar tus LISTA de base de datos local (offline 100%) o de servidor (
 ![software2](IMG/2.png)
 
 ![software3](IMG/3.png)
+
+![software4](IMG/4.png)
  
   
 ## Installation
